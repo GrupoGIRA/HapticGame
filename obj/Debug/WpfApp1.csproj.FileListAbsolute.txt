@@ -1,0 +1,166 @@
+D:\Tesis\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Tesis\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Tesis\WalkingCat\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Tesis\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Tesis\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\Tesis\WalkingCat\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Tesis\WalkingCat\WpfApp1\obj\Debug\App.g.cs
+D:\Tesis\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Tesis\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Tesis\WalkingCat\WpfApp1\obj\Debug\MainWindow.baml
+D:\Tesis\WalkingCat\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Tesis\WalkingCat\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Tesis\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Tesis\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Tesis\WalkingCat\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Tesis\WalkingCat\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\obj\Debug\App.g.cs
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\GAMM4\Desktop\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\GAMM4\tesis\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\GAMM4\tesis\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\GAMM4\tesis\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\GAMM4\tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\GAMM4\tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\GAMM4\tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\App.g.cs
+C:\Users\GAMM4\tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\GAMM4\tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\GAMM4\tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\GAMM4\tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\GAMM4\tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\GAMM4\tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\GAMM4\tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\GAMM4\tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\GAMM4\tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\game\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\game\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe
+C:\game\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\game\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\game\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\game\walkingcat\WalkingCat\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\game\walkingcat\WalkingCat\WpfApp1\obj\Debug\App.g.cs
+C:\game\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\game\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\game\walkingcat\WalkingCat\WpfApp1\obj\Debug\MainWindow.baml
+C:\game\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\game\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\game\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\game\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\game\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.exe
+C:\game\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\obj\Debug\App.g.cs
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\bin\Debug\Tanvas.TanvasTouch.dll
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\bin\Debug\Tanvas.TanvasTouch.WpfUtilities.dll
+C:\Users\GAMM4\tesis\10-01'24\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\bin\Debug\Tanvas.TanvasTouch.dll
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\bin\Debug\Tanvas.TanvasTouch.WpfUtilities.dll
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\obj\Debug\App.g.cs
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\obj\Debug\MainWindow.baml
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Tesis\Game\TouchGameV3\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\bin\Debug\Tanvas.TanvasTouch.dll
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\bin\Debug\Tanvas.TanvasTouch.WpfUtilities.dll
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\App.g.cs
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\Window1.baml
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\ConfigWindow.baml
+C:\Users\GAMM4\Desktop\Tesis\walkingcat\WalkingCat\WpfApp1\obj\Debug\ConfigWindow.g.cs
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\bin\Debug\Tanvas.TanvasTouch.dll
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\bin\Debug\Tanvas.TanvasTouch.WpfUtilities.dll
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\ConfigWindow.baml
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\ConfigWindow.g.cs
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\App.g.cs
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\Window1.baml
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\GAMM4\Desktop\Copia Tesis\TesisToGithub\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\bin\Debug\Tanvas.TanvasTouch.dll
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\bin\Debug\Tanvas.TanvasTouch.WpfUtilities.dll
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\ConfigWindow.baml
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\ConfigWindow.g.cs
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\Window1.baml
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Gamma\OneDrive\Escritorio\HapCat\HapCat\walkingcat\WalkingCat\WpfApp1\obj\Debug\WpfApp1.pdb
